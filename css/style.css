@@ -1,4 +1,4 @@
-/* *,
+*,
 *::before,
 *::after {
 	margin: 0;
@@ -26,4 +26,60 @@ h6 {
 }
 img {
 	vertical-align: top;
-} */
+}
+
+.header__title {
+	color: blue;
+}
+
+span {
+	color: red;
+}
+
+.main__text {
+	color: blueviolet;
+}
+
+main .nav__menu {
+	color: brown;
+}
+
+#id1 > p {
+	color: hotpink;
+}
+
+nav .nav__menu .menu {
+	color: indigo;
+}
+
+#id1,
+#id2,
+#id3 {
+	color: lightcoral;
+}
+
+#id2 .text {
+	color: lawngreen;
+}
+#id3 .zavet2 {
+	color: lightseagreen;
+}
+
+#id4 .text1,
+.text2 {
+	color: magenta;
+}
+
+.text3 {
+	color: mediumblue;
+}
+
+.text4 > p {
+	color: mediumpurple;
+}
+.text5 h4 {
+	color: mediumvioletred;
+}
+.text5 {
+	color: olive;
+}
