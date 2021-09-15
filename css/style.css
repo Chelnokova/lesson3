@@ -32,10 +32,6 @@ img {
 	color: blue;
 }
 
-span {
-	color: red;
-}
-
 .main__text {
 	color: blueviolet;
 }
@@ -50,12 +46,6 @@ main .nav__menu {
 
 nav .nav__menu .menu {
 	color: indigo;
-}
-
-#id1,
-#id2,
-#id3 {
-	color: lightcoral;
 }
 
 #id2 .text {
